@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/proecommerce/static/css/main.67d90706.css",
+    "main.js": "/proecommerce/static/js/main.70935e83.js",
+    "static/media/bootstrap.min.css.map": "/proecommerce/static/media/bootstrap.min.css.24ed20e8476698dafba3.map",
+    "static/media/image.png": "/proecommerce/static/media/image.c0bb46a1f648f0129fb9.png",
+    "index.html": "/proecommerce/index.html",
+    "main.67d90706.css.map": "/proecommerce/static/css/main.67d90706.css.map",
+    "main.70935e83.js.map": "/proecommerce/static/js/main.70935e83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67d90706.css",
+    "static/js/main.70935e83.js"
+  ]
+}
